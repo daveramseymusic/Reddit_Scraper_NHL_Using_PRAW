@@ -1,6 +1,6 @@
-client_id= 'Kuil6I_Wgqf3Gw'
-client_secret = 'ZJmBPIwtOwk5LGYGhWjlzDkXjFTF8A'
-user_agent= "test1"
-username='daveramseymusic'
-password= 'kEJ53i!S35xwmNP'
+client_id= 'redacted'
+client_secret = 'redacted'
+user_agent= 'redacted'
+username= 'redacted'
+password= 'redacted'
 
